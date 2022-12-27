@@ -1,0 +1,16 @@
+table img{
+    width: 100px;
+}
+#search{
+    position: absolute;
+    right: 0;
+    width: 10%;
+}
+#myInput{
+    position:absolute;top:8px;border:none;right:10px;width:100px;
+    display: none;
+    
+}
+.t{
+    font-weight: 700;
+}
