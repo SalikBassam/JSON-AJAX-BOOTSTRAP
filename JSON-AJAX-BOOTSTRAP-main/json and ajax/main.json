@@ -1,0 +1,83 @@
+[
+    {
+        "Film":"The Shawshank Redemption",
+        "Director":"Frank Darabont",
+        "Runtime":"2h 22m",
+        "Year":"1994",
+        "Poster":"f1.jpg",
+        "Actors":"Morgan Freeman, USA"
+        
+    },
+       {
+        "Film":"the Godfather",
+        "Director":"Francis Ford Coppola ",
+        "Runtime":"2h 55m",
+        "Year":"1972",
+        "Poster":"f2.jpg",
+        "Actors":"Marlon Brando, USA"
+    }, 
+      {
+        "Film":"The Dark Knight",
+        "Director":"Christopher Nolan",
+        "Runtime":"2h 32m",
+        "Year":"2008",
+        "Poster":"f3.jpg",
+        "Actors":"Christian Bale, UK"
+    }, 
+      {
+        "Film":"The Godfather: Part II",
+        "Director":"Francis Ford Coppola",
+        "Runtime":"3h 22m",
+        "Year":"1974",
+        "Poster":"f4.jpg",
+        "Actors":"Al Pacino, Italy"
+    },
+       {
+        "Film":"12 Angry Men",
+        "Director":"Sidney Lumet",
+        "Runtime":"1h 36m",
+        "Year":"1957",
+        "Poster":"f5.jpg",
+        "Actors":"Henry Fonda, USA"
+    }, 
+       {
+        "Film":"Schindler's List",
+        "Director":"Steven Spielberg",
+        "Runtime":"3h 15m",
+        "Year":"1993",
+        "Poster":"f6.jpg",
+        "Actors":"Liam Neeson, USA"
+    },
+      {
+        "Film":"The Lord of the Rings: The Return of the King",
+        "Director":"Peter Jackson",
+        "Runtime":"3h 21m",
+        "Year":"2003",
+        "Poster":"f7.jpg",
+        "Actors":"Elijah Wood, USA"
+    },
+       {
+        "Film":"Pulp Fiction",
+        "Director":"Quentin Tarantino",
+        "Runtime":"2h 34m",
+        "Year":"1994",
+        "Poster":"f8.jpg",
+        "Actors":"John Travolta, USA"
+    },
+       {
+        "Film":"The Good, the Bad and the Ugly",
+        "Director":"Sergio Leone",
+        "Runtime":"2h 28m",
+        "Year":"1966",
+        "Poster":"f9.jpg",
+        "Actors":"Clint Eastwood, USA"
+    },
+    {
+      "Film":"Forrest Gump",
+      "Director":"Robert Zemeckis",
+      "Runtime":"2h 22m",
+      "Year":"1994",
+      "Poster":"f10.jpg",
+      "Actors":"Tom Hanks, USA"
+  }
+]
